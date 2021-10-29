@@ -1,3 +1,3 @@
 # NLW-Heat-RocketSeat
 Mission: Origin<br>
-NLW Heat
+NLW Heat - 7° Edição 
