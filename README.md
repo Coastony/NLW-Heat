@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
- <img src="assets/parallax.png" width="550" alt="Image project">
+ <img src="images/heat.png" width="550" alt="Image project">
 </p>
 
 ## 📁 Project access
