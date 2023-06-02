@@ -5,7 +5,7 @@
  ## ✔️ Techniques and technologies used
 
 - ``HTML5`` ``CSS3`` ``JavaScript``
-- NLW Heat - 7° Edição 
+- NLW Heat - 7° Edition
 
 <br>
 
